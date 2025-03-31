@@ -11,7 +11,7 @@ main:
 #    url: post
 #    weight: 20
   - name: Surgery
-    url: people
+    url: surgery
     weight: 20
 #  - name: Events
 #    url: event
