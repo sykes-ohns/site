@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: '' # Website name
-image:
-            filename: '../images/web logo.jpg'
+logo:
+    filename: '../../images/web logo.jpg'
 baseURL: 'https://example.com/' # Website URL
 
 ############################
