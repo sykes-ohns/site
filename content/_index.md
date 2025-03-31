@@ -14,7 +14,9 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Address: 666 St. Clair Ave West, Suite 101, TORONTO, M4C 1B1
+        Tel: 647-848-2236
+        Fax: 416-281-0553
   
   - block: collection
     content:
