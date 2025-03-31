@@ -4,11 +4,11 @@ title:
 date: 2022-10-24
 type: landing
 
-sections:
   - block: hero
     content:
       title: |
-        Edward A Sykes Otolaryngology Head & Neck Surgery Clinic
+        Edward A Sykes
+        Otolaryngology Head & Neck Surgery Clinic
     image:
         filename: welcome.jpg
       text: |
