@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Welcome to the clinic
+        content: 
         align: center
         background:
           image:
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Clinic rooms
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Meet our partner!
+        content: 'Hearing Life!'
         align: right
         background:
           image:
