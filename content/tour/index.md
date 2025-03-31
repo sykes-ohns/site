@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Clinic rooms
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: 
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Meet our partner!
-        content: 'Hearing Life!'
+      - title: Procedural room
+        content: 'Designed for ear microdebridement, ultrasonography, and biopsies'
         align: right
         background:
           image:
@@ -38,11 +38,6 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
