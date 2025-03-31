@@ -7,7 +7,8 @@ type: landing
 sections:
   - block: hero
     content:
-     title: |         Edward A Sykes Otolaryngology Head & Neck Surgery Clinic
+      title: |
+        Edward A Sykes Otolaryngology Head & Neck Surgery Clinic
     image:
         filename: welcome.jpg
       text: |
