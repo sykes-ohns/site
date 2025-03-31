@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact Us
+      title: Clinic Information
       text: |-
         New patient appointments are made by referral only. 
       email: info@sykes-ohns.ca
