@@ -7,11 +7,12 @@ type: landing
 sections:
   - block: hero
     content:
-     image:
-        filename: welcome.jpg
-      text: |
      title: |
         Edward A Sykes Otolaryngology Head & Neck Surgery Clinic
+         image:
+        filename: welcome.jpg
+      text: |
+
         <br>
         
         666 St. Clair Ave West, Suite 101, TORONTO, M4C 1B1
