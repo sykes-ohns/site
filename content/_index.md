@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Edward A Sykes Otolaryngology Head & Neck Surgery Clinic
       image:
         filename: welcome.jpg
       text: |
