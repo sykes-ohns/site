@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Edward A Sykes
-        Otolaryngology Head & Neck Surgery Clinic
+        Edward A Sykes Otolaryngology Head & Neck Surgery Clinic
     image:
         filename: welcome.jpg
       text: |
