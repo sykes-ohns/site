@@ -9,7 +9,7 @@ sections:
     content:
      title: |
         Edward A Sykes Otolaryngology Head & Neck Surgery Clinic
-         image:
+    image:
         filename: welcome.jpg
       text: |
 
