@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: '' # Website name
+title: 'Edward A Sykes OHNS Clinic' # Website name
 image:
-    filename: '../../images/Web-Logo.jpg'
+    filename: 'images/Web-Logo.jpg'
 baseURL: 'https://example.com/' # Website URL
 
 ############################
