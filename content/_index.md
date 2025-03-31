@@ -14,8 +14,7 @@ sections:
       text: |
 
         <br>
-        666 St. Clair Ave West, Suite 101, TORONTO, M4C 1B1 <br>
-        Tel: 647-848-2236 <br>
-        Fax: 416-281-0553 <br>
+        666 ST CLAIR AVE WEST, SUITE 101, TORONTO, M4C 1B1 <br>
+        Tel: 647-848-2236   |    Fax: 416-281-0553 <br>
   
 ---
